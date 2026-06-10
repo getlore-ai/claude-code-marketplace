@@ -5,7 +5,7 @@
     "email": "hello@getlore.ai"
   },
   "metadata": {
-    "description": "Plugins from getlore.ai — research knowledge repository with semantic search and citations"
+    "description": "Plugins from getlore.ai \u2014 research knowledge repository with semantic search and citations"
   },
   "plugins": [
     {
@@ -15,14 +15,20 @@
         "repo": "getlore-ai/lore",
         "path": "plugins/claude-code"
       },
-      "description": "Research knowledge repository — semantic search, citations, and agent-driven ingestion from any source",
-      "version": "1.0.0",
+      "description": "Research knowledge repository \u2014 semantic search, citations, briefs, procedures, and the advisor 1:1 skill",
+      "version": "1.1.0",
       "author": {
         "name": "Mishkin Faustini"
       },
       "homepage": "https://getlore.ai",
       "repository": "https://github.com/getlore-ai/lore",
-      "keywords": ["knowledge-base", "research", "citations", "semantic-search", "mcp"],
+      "keywords": [
+        "knowledge-base",
+        "research",
+        "citations",
+        "semantic-search",
+        "mcp"
+      ],
       "category": "knowledge"
     }
   ]
